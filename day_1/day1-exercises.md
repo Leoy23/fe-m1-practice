@@ -24,3 +24,19 @@
 1. <header></header>
 1. <footer></footer>
 1. <article></article>
+
+
+
+<html>
+  <head>
+    <title>My First HTML Design</title>
+  </head>
+  <body>
+    <h1> What's Motivating Me To Learn Web Development </h1>
+    <h2> Web Development is Awesome! </h2>
+    <p> So far, I have learned about why HTML is important to structuring web pages and making it user friendly when others view content such as this. I have found a niche for this stuff and it feels exciting to learn and practice. </p>
+    <h2> It's Very Rewarding </h2>
+    <p> I think as I've typed out some html here, I've learned how important order is and why it's crucial to be detail oriented so that I can prevent issues that could occur. I've also started to become very curious with all these tools I've been given and I wonder what more I could do beyond this point. It feels like a really cool ability to have. </p>
+  </body>
+</html>
+    
