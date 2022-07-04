@@ -20,5 +20,7 @@
 
 8. Semantic markup are elements used not to change the structure of the page, but to add extra information within the page. Important to know when to use as it helps screen readers or other search engines know exactly what to do with the information provided.
 
-9. <header></header> ; <footer></footer> ;
-<article></article>
+9.
+1. <header></header>
+1. <footer></footer>
+1. <article></article>
