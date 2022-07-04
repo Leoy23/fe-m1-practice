@@ -1,4 +1,4 @@
-# Day 1: HTML and CSS
+#ø Day 1: HTML and CSS
 
 ## Open your local copy of fe-m1-practice in Atom
 
