@@ -1,7 +1,7 @@
 # Ch. 7 Q's
 
 1. The value of the type attribute determines the input behavior
-2. The <select> element creates the drop down list box.
+2. The <select></select> element creates the drop down list box.
 3. type="submit" would be the type attribute when sending form data to a server.
 4. The <fieldset></fieldset> element
 
