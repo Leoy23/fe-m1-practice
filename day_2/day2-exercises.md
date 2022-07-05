@@ -1,3 +1,5 @@
+# Ch. 3 & 4 Q's
+
 1. Ordered lists are lists with items that are numbered, unordered lists are lists that are bulleted, and definition lists are those made up by sets of terms and their corresponding definitions.
 
 2. The basic structure of an element used to link to another website would be the <a> element with a value called "href" followed by an "=" sign and then the address for the site or absolute URL.
@@ -8,7 +10,7 @@
 4. To link to a specific part of the same page, you would to identify the point of the page that the link will go to, use the id attribute that starts with a letter or an underscore and identifies the desired section of the page.
 
 
-# Intro to CSS
+# Ch. 10, 11 & 12 Q's
 
 1. The purpose of CSS is to create rules to specify how content of an element is presented.  
 2. Cascading Style Sheet; “cascading” means that you can write style sheets that are more simple because you can create rules that apply to most elements and “override” certain properties on specific elements so they appear different than other elements.
